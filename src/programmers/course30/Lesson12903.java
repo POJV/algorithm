@@ -1,4 +1,4 @@
-package course30;
+package programmers.course30;
 
 public class Lesson12903 {
 	public static void main(String[] args) {
